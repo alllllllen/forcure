@@ -1,0 +1,11 @@
+int8 id
+string tablename
+int64 row0
+int64 row1
+int64 col0
+int64 col1
+int64 maxnum
+bool preorder
+bool ins
+float64 distance
+int64 priority
